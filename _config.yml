@@ -13,3 +13,5 @@ primarylinks:
  -  title: Linkedin
     url: https://www.linkedin.com/in/vipshae/ 
 
+
+theme: jekyll-theme-minimal
