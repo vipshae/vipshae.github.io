@@ -1,1 +1,16 @@
 theme: jekyll-theme-minimal
+
+# Site settings
+
+title: Vipul Sharma
+Profession: Software Developer at IBM Germany
+name: Vipul Sharma
+
+#User specific content
+
+#Links that will appear in the navbar
+
+primarylinks:
+ -  title: Linkedin
+    url: https://www.linkedin.com/in/vipshae/ 
+
